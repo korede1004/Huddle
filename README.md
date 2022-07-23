@@ -1,5 +1,5 @@
 # Huddle
-live site: https://github.com/korede1004/Huddle
+live site:https://korede1004.github.io/Huddle/
 
 After 6 weeks of intensive training with TECHACHON 1.0
 This is my second personal project in TECHATHON 1.0 "HUDDLE" 
